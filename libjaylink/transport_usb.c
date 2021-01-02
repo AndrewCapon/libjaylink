@@ -41,7 +41,7 @@
 #define NUM_TIMEOUTS	2
 
 /** Chunk size in bytes in which data is transferred. */
-#define CHUNK_SIZE	2048
+#define CHUNK_SIZE	4096
 
 static int initialize_handle(struct jaylink_device_handle *devh)
 {

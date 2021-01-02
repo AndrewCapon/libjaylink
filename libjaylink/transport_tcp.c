@@ -53,7 +53,7 @@
 #define RESP_MAX_CONNECTIONS	0xfe
 
 /** Buffer size in bytes. */
-#define BUFFER_SIZE	2048
+#define BUFFER_SIZE	4096
 
 /** Timeout of a receive operation in milliseconds. */
 #define RECV_TIMEOUT	5000
